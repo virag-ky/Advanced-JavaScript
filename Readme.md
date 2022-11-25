@@ -21,3 +21,5 @@
   - default binding
 
 - ### prototype
+
+- ### prototypal inheritance
