@@ -23,3 +23,5 @@
 - ### prototype
 
 - ### prototypal inheritance
+
+- ### classes
