@@ -1,5 +1,7 @@
 # Advanced JavaScript
 
+> This repository holds advanced JavaScript concepts that I've been practicing.
+
 ## Topics :
 
 - ### scope:
