@@ -21,10 +21,14 @@ function curry(fn) {
 const curriedSum = curry(sum);
 curriedSum(2)(3)(5); // 10
 
-const add2 = curriedSum(2);
-const add3 = add2(3);
-const add5 = add3(5);
-console.log(add5); // 10
+const curry2 = (fn) => (a) => (b) => (c) => fn(a, b, c);
+const sum2 = curry2(sum);
+sum2(2)(3)(5); // 10
+
+// const add2 = curriedSum(2);
+// const add3 = add2(3);
+// const add5 = add3(5);
+// console.log(add5); // 10
 
 /* Why would we need currying?
 
