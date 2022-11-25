@@ -12,3 +12,10 @@
 - ### closure
 
 - ### currying
+
+- ### this keyword:
+
+  - implicit binding
+  - explicit binding
+  - new binding
+  - default binding
