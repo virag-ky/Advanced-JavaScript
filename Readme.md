@@ -10,3 +10,5 @@
   - lexical scope
 
 - ### closure
+
+- ### currying
