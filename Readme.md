@@ -8,3 +8,5 @@
   - function scope
   - global scope
   - lexical scope
+
+- ### closure
